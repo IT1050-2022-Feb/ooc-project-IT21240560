@@ -3,10 +3,10 @@
 </br>
 Members
 
-|IT number|Name|
-|---|---|
-|IT21240560|Jayarathne U.C.K.|
-|IT21243912|Gaurawa S.|
-|IT21241628|Wickrama Arachchi W.A.D.C.S.|
-|IT21241550|Bidushan V.P.|
-|IT21238376|Dinujaya M.H.S.|
+|IT number|Name|contributions|
+|---|---|---|
+|IT21240560|Jayarathne U.C.K.|Vehicle|
+|IT21243912|Gaurawa S.|Staff, Payment|
+|IT21241628|Wickrama Arachchi W.A.D.C.S.|Staff, Payment|
+|IT21241550|Bidushan V.P.|Package|
+|IT21238376|Dinujaya M.H.S.|Support|
